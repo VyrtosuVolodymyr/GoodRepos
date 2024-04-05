@@ -40,6 +40,8 @@ namespace WorkEx2
 
             Console.WriteLine($"Параметры книги: \n-Название книги: {NameOfBook}\n-Автор: {Autor}\n-Год выпуска:{YearOfDrop}\n-Цена:{Price}$");
 
+            Console.ReadLine();
+
 
         }
     }
